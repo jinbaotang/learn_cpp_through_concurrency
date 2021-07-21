@@ -1,0 +1,3 @@
+/home/jinbao/3.learn/learn_cpp_through_concurrency/practice/00_std_thread/build/CMakeFiles/edit_cache.dir
+/home/jinbao/3.learn/learn_cpp_through_concurrency/practice/00_std_thread/build/CMakeFiles/rebuild_cache.dir
+/home/jinbao/3.learn/learn_cpp_through_concurrency/practice/00_std_thread/build/CMakeFiles/hello_wordl.dir
