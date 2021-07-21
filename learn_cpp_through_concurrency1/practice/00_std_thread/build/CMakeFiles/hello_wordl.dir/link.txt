@@ -1,1 +1,0 @@
-/usr/bin/c++    -pthread -std=c++11 -g   CMakeFiles/hello_wordl.dir/0_std_thread_hello_world.cpp.o  -o bin/hello_wordl -rdynamic 
